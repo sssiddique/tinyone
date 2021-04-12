@@ -1,0 +1,17 @@
+-> Header
+-> Feature
+-> Support
+-> Footer
+
+-----------------------
+Template Size:
+-----------------------
+-> Container Fluid: 1400px
+-> Container: 960px
+
+
+------------------------
+Color:
+------------------------
+Primary Color:  #fcdb00
+Secondary Color: #010101

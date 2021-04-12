@@ -1,0 +1,94 @@
+/*==========================================================
+    Abstract:
+          => This Framework has been written
+============================================================*/
+
+
+/*Start Framework*/
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+a, a:hover{
+  list-style-type: none;
+  text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6, a, ul, ol, button, input, p{
+  margin: 0;
+  padding: 0;
+}
+h6{
+  font-size: 20px;
+}
+p{
+  font-size: 16px;
+}
+/*==========================================================
+  Body:-
+============================================================*/
+body{
+  font-size: 17px;
+  color: #010101;
+  font-family: 'PT Sans', sans-serif;
+}
+.container{
+  max-width: 960px!important;
+}
+.list-inline-item i.fa{
+  font-size: 32px;
+  padding-right:15px;
+}
+.row {
+  padding-bottom: 44px;
+}
+.row features-head{
+  padding-bottom: 0px!important;
+}
+/*==========================================================
+    Background:-
+============================================================*/
+.bg-primary{
+  background-color: #FCDB00!important;
+}
+/*==========================================================
+    btn:-
+============================================================*/
+
+/*==========================================================
+    Padding Section:-
+============================================================*/
+
+/*==========================================================
+    Margin:-
+============================================================*/
+
+/*End Framework*/
+
+
+
+
+
+/*==========================================================
+    Carousel
+============================================================*/
+.carousel-indicators li {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+/*==========================================================
+    Header Start
+============================================================*/
+header{
+  padding: 20px 0px;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link {
+  color: #010101;
+  font-weight: 600;
+  font-size:20px;
+  padding-left: 45px;
+}
