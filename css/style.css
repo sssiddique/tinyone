@@ -61,6 +61,43 @@ body{
   position: relative;
   margin-left: 60px;
 }
+.newsletter{
+  background-color:#010101;
+}
+.subscription-head h3{
+  color: #fff;
+}
+.subscription-head p{
+  color: #fff;
+}
+.social ul>li>i{
+  color: #FCDB00!important;
+}
+.footer-navigation{
+  background-color:#010101;
+}
+.footer-navigation p{
+  color:#fff;
+}
+.footer-navigation a{
+  color:#fff;
+}
+.footer-navigation a:hover{
+  color:#FCDB00;
+}
+.footer-navigation a:active{
+  color:#FCDB00;
+}
+.footer{
+  background-color:#000000;
+}
+.footer p{
+  color:#FCDB00;
+}
+.footer p{
+  margin: 0 auto!important;
+  font-size:14px;
+}
 /*==========================================================
     btn:-
 ============================================================*/
