@@ -53,6 +53,14 @@ body{
 .bg-primary{
   background-color: #FCDB00!important;
 }
+.features-icon i{
+  position: absolute;
+  font-size: 40px;
+}
+.features-text{
+  position: relative;
+  margin-left: 60px;
+}
 /*==========================================================
     btn:-
 ============================================================*/
